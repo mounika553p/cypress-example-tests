@@ -1,0 +1,17 @@
+{
+  "name": "cypress-example-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.3",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^5.5.4"
+  }
+}
